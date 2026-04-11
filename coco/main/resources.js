@@ -94,7 +94,7 @@ export const resources = {
     { name: "梦中水大嘿客", description: "梦中水大嘿客这招太狠了😭😭😭", link: "https://shequ.codemao.cn/user/15980757" },
     { name: "小未-《努力奔跑》", description: "跑 不停努力的奔跑...", link: "https://www.bilibili.com/video/BV1zp4y1c7eq/" },
     { name: "小未-《Run and Run(努力奔跑 - 英文版)》", description: "Run and Run...", link: "https://www.bilibili.com/video/BV1cXuHeGEG5/" },
-    { name: "小猫", description: "祝 小猫&梦中水 99！", link: "https://static.codemao.cn/pickduck/HyIQDQmdle.png?hash=FpoaZzw8idNDN2k8koxti2PWQHl_" },
+    { name: "小猫", description: "(这是我)臭垃圾桶我恨你！", link: "https://static.codemao.cn/pickduck/HyIQDQmdle.png?hash=FpoaZzw8idNDN2k8koxti2PWQHl_" },
     { name: "Tomo（小阅）（小小小小羊～)", description: "投票入榜的，该项跳转到的是投票最终统计截图", link: "https://db0l8fnn8oqtof.database.nocode.cn/storage/v1/object/public/wenjian/anonymous/1771171548018_cu3n5w5ayt.png" }
   ],
   teshu: [
