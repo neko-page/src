@@ -88,6 +88,7 @@ export const resources = {
     { name: "文件分享系统", description: "上传您的文件并获取分享链接", link: "https://wenjianshangchuan.nocode.host/#/" }
   ],
   mengzhongshui: [
+    { name: "生日快乐-垃圾桶", description: "🎂致敬原作者", link: "https://db0l8fnn8oqtof.database.nocode.cn/storage/v1/object/public/wenjian/anonymous/1776442057920_vo7gqnae80s.jpg" },
     { name: "垃圾桶", description: "本网站的原作者（这个网站是盗版，点击查看盗版许可）", link: "https://neko-page.github.io/src/coco/img/permission.png" },
     { name: "风哲", description: "神经病、脑残、脑瘫、癔想症、自大得要💩、招笑低能孩、九年义务教育都没上过😂（QQ:2786015868）", link: "https://static.codemao.cn/pickduck/Hk5dtZA2ee.png?hash=FrHNdFMuCcYJxY8ZzoHV-Csrfch8" },
     { name: "青界官网", description: "暂无描述", link: "https://www.qscx1.cn/" },
